@@ -33,7 +33,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 #### Program
 
-```
+```asm
 CODE SEGMENT
 ASSUME CS:CODE, DS:CODE
 ORG 1000H
