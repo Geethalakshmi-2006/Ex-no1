@@ -33,7 +33,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 #### Program
 
-```asm
+```
 CODE SEGMENT
 ASSUME CS:CODE, DS:CODE
 ORG 1000H
@@ -62,11 +62,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1289" alt="image" src="https://github.com/user-attachments/assets/45f3d92c-3595-4085-98b5-46f78e06c733" />
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="637" height="424" alt="image" src="https://github.com/user-attachments/assets/3962ace6-0ed8-4a67-be20-55ac21a9ec38" />
 
 ## 2. SUBTRACTION
 
@@ -113,12 +115,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1259" alt="image" src="https://github.com/user-attachments/assets/3434d1ff-bb96-478d-9f4a-97a5895c3b6f" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="637" height="425" alt="image" src="https://github.com/user-attachments/assets/38b39373-a408-41be-b4f5-ceacac55f91b" />
 
 ## 3. MULTIPLICATION
 
@@ -162,11 +166,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="911" alt="image" src="https://github.com/user-attachments/assets/3e1c783b-7ef3-4ba6-83c3-cae6a393ed54" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="639" height="429" alt="image" src="https://github.com/user-attachments/assets/9e2e242a-a3e0-40cb-bfba-e9ee09bf37f1" />
 
 ## 4. DIVISION
 
@@ -207,10 +213,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1374" alt="image" src="https://github.com/user-attachments/assets/321cffde-1945-49e9-a1df-110c9fc6b541" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="638" height="431" alt="image" src="https://github.com/user-attachments/assets/94ca760c-1d2b-4737-a7f4-fa89dfabcb0a" />
 
 
 
